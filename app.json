@@ -12,9 +12,9 @@
     "youtube-dl",
     "leecher"
   ],
-  "repository": "https://github.com/Omkar47/AutoLeecher",
+  "repository": "https://github.com/Captainamarica/NightVission-leech-bomt",
   "success_url": "https://telegram.dog/APDBugged",
-  "website": "https://github.com/Omkar47/AutoLeecher",
+  "website": "https://github.com/Captainamarica/NightVission-leech-bomt",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -22,19 +22,19 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "18895284"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "3091d00186aa25b92a9b791dcebd59de"
     },
     "BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": ""
+      "value": "5468371126:AAFlIcUrkd_V9KjuLTMv8TEhSZ5IevSW6fU"
     },
     "AUTH": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
-      "value": ""
+      "value": "-1001778245738"
     },
     "CHUNK_SIZE": {
       "description": "should be an integer",
